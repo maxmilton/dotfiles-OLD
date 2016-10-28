@@ -6,9 +6,7 @@ Nothing special really, just my personal collection of dot files. There's no scr
 
 ## Licence
 
-Blog content licensed under the Creative Commons Attribution No Derivatives 4.0 ([CC-BY-ND-4.0](http://creativecommons.org/licenses/by-nd/4.0/legalcode)) licence. When quoting my posts, please link back to the original article.
-
-Site theme licensed ISC, see [themes/mm/LICENCE.md](https://github.com/MaxMilton/MaxMilton.com/blob/master/themes/mm/LICENSE.md).
+Licensed ISC, see [LICENCE.md](https://github.com/MaxMilton/dotfiles/blob/master/LICENSE.md).
 
 ## Author
 
