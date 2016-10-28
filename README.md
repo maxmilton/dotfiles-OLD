@@ -2,7 +2,7 @@ Max's personal dot files.
 
 # Overview
 
-Nothing special really, just my personal collection of dot files. There's no script for automatically creating symlinks or authing like that so you'll need to manually copy the files or create symlinks.
+Nothing special really, just my personal collection of dot files. There's no script for automatically creating symlinks or anything like that so you'll need to manually copy the files or create symlinks.
 
 ## Licence
 
